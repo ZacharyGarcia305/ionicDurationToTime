@@ -1,3 +1,9 @@
+/**
+ * 
+ * A simple typescript class with a method that converts decimals such as 5.5 to 5:50, 3.30 to 3:30, etc, 
+ * so that the Ionic Date Time component can read and display it in a hour and minute format.
+ * 
+ */
 
 export class ionicDurationToTime
 {
